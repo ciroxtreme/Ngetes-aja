@@ -1,3 +1,13 @@
 {
-  "biji": ["172.18.0.6", "10.0.0.1", ...]
+  "allowedIps": ["172.18.0.21", "172.18.0.7"],
+  "users": [
+    {
+      "username": "fall",
+      "password": "fall123"
+    },
+    {
+      "username": "ella",
+      "password": "ella123"
+    }
+  ]
 }
